@@ -1,0 +1,27 @@
+{
+	"id": "vscc_attack",
+	"format_version": 1,
+	"name": "Roll20 Attack",
+	"short_description": "An example of performing an attack with the scripting system.",
+	"long_description": "An example of using roll20 integration in scripting to perform an attack.",
+	"version": "1.0.0",
+	"accepted_app_version": "1.*",
+	"changelog": {
+		"1.0.0": "Uploaded to the marketplace."
+	},
+	"license": "MIT",
+	"authors": [
+		"SkyLouTyr"
+	],
+	"tags": [
+		"Roll20",
+	  "Example"
+	],
+	"link": "https://raw.githubusercontent.com/skyloutyr/VSCCScripts/master/scripts/attack.lua",
+	"checksum": "76a68dd6f3b837e22baf6c95fa58e1be",
+	"flags": [
+		"Example",
+	  "Official",
+	  "Outdated"
+	]
+}
