@@ -1,0 +1,27 @@
+{
+	"id": "vscc_initiative",
+	"format_version": 1,
+	"name": "Roll20 Initiative",
+	"short_description": "An example of performing an initiative roll with the scripting system.",
+	"long_description": "An example of using roll20 integration in scripting to perform an initiative roll.",
+	"version": "1.0.0",
+	"accepted_app_version": "1.*",
+	"changelog": {
+		"1.0.0": "Uploaded to the marketplace."
+	},
+	"license": "MIT",
+	"authors": [
+		"SkyLouTyr"
+	],
+	"tags": [
+		"Roll20",
+	  "Example"
+	],
+	"link": "https://raw.githubusercontent.com/skyloutyr/VSCCScripts/master/scripts/initiative.lua",
+	"checksum": "55cdaa573dbc7cdce78016c3cb210f83",
+	"flags": [
+		"Example",
+	  "Official",
+	  "Outdated"
+	]
+}
